@@ -3,8 +3,6 @@ Twitter clone based on blockchain technology using reactJS and solidity
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Developers -
 
 - sem VI Mini Project-2A
@@ -30,6 +28,10 @@ In the project directory, you can run:
 Install all the packages required.
 
 ### `npm start`
+
+OR
+
+### `npm run dev`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
