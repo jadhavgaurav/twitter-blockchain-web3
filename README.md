@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Developers -
 
-- sem V Mini Project-2A
+- sem VI Mini Project-2A
 
 ### `Gaurav Jadhav`
 
